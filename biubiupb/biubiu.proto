@@ -20,6 +20,7 @@ service BiuBiu {
 message HelloRequest {
   string name = 1;
   string age = 2;
+  string sex = 3;
 }
 
 // The response message containing the greetings
