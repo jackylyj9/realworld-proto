@@ -21,6 +21,7 @@ message HelloRequest {
   string name = 1;
   string age = 2;
   string sex = 3;
+  string email = 4;
 }
 
 // The response message containing the greetings
