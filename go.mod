@@ -1,4 +1,4 @@
-module realworld-proto
+module github.com/jackylyj9/realworld-proto
 
 go 1.18
 
